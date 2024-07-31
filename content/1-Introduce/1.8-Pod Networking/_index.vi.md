@@ -60,7 +60,7 @@ $ ip addr add 10.244.2.1/24 dev v-net-0
 $ ip addr add 10.244.3.1/24 dev v-net-0
 ```
 
-![EKS](/images/0004/0007.png?featherlight=false&width=90pc)
+![EKS](/EKS-Workshop-6/images/0004/0007.png?featherlight=false&width=90pc)
 
 - Kiểm tra khả năng kết nối
 
@@ -98,12 +98,12 @@ $ ip route add 10.244.2.2 via 192.168.1.12
 
 - Thêm một mạng lớn duy nhất
 
-![EKS](/images/0004/0008.png?featherlight=false&width=90pc)
+![EKS](/EKS-Workshop-6/images/0004/0008.png?featherlight=false&width=90pc)
 
 
 ## Giao diện Mạng Container
 
-![EKS](/images/0004/0009.png?featherlight=false&width=90pc)
+![EKS](/EKS-Workshop-6/images/0004/0009.png?featherlight=false&width=90pc)
 
 #### Tài liệu Tham khảo
 

@@ -92,7 +92,7 @@ Các subnet này được chia thành:
 - Subnet riêng: Một cho mỗi khu vực có sẵn sử dụng một khối CIDR từ dải CIDR chính
 - Subnet riêng phụ: Một cho mỗi khu vực có sẵn sử dụng một khối CIDR từ dải CIDR **phụ**
 
-![EKS](/images/0004/00017.png?featherlight=false&width=60pc)
+![EKS](/EKS-Workshop-6/images/0004/00017.png?featherlight=false&width=60pc)
 
 Bạn có thể xem các subnet này trong bảng điều khiển AWS:
 

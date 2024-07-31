@@ -9,7 +9,7 @@ pre: "<b> 1.6 </b>"
 
 Trong phần này, chúng ta sẽ xem xét **Giao diện Mạng Container tiên quyết** (**Pre-requisite Container Network Interface(CNI)**).
 
-![EKS](/images/0004/0006.png?featherlight=false&width=90pc)
+![EKS](/EKS-Workshop-6/images/0004/0006.png?featherlight=false&width=90pc)
 
 
 #### Các Nhà Cung Cấp Plugin Mạng Bên Thứ Ba

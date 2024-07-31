@@ -28,4 +28,4 @@ Mạng tùy chỉnh là một giải pháp cho vấn đề này.
 
 Mạng tùy chỉnh giải quyết vấn đề cạn kiệt địa chỉ IP bằng cách gán các địa chỉ IP Pods từ không gian địa chỉ VPC phụ (CIDR). Mạng tùy chỉnh hỗ trợ tài nguyên tùy chỉnh ENIConfig. ENIConfig bao gồm một phạm vi CIDR mạng con thay thế (tách từ CIDR VPC phụ), cùng với các nhóm bảo mật mà các Pods sẽ thuộc về. Khi mạng tùy chỉnh được kích hoạt, VPC CNI tạo các ENI phụ trong mạng con được xác định trong ENIConfig. CNI gán cho Pods các địa chỉ IP từ một dải CIDR được xác định trong một tài nguyên CRD ENIConfig.
 
-![EKS](/images/0004/00016.png?featherlight=false&width=90pc)
+![EKS](/EKS-Workshop-6/images/0004/00016.png?featherlight=false&width=90pc)

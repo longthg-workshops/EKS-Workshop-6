@@ -23,7 +23,7 @@ $ ip link
 $ ip addr
 ```
 
-![EKS](/images/0004/0001.png?featherlight=false&width=90pc)
+![EKS](/EKS-Workshop-6/images/0004/0001.png?featherlight=false&width=90pc)
 
 #### Định tuyến (Routing)
 
@@ -44,7 +44,7 @@ $ ip route list
 $ ip route add 192.168.1.0/24 via 192.168.2.1
 ```
 
-![EKS](/images/0004/0002.png?featherlight=false&width=90pc)
+![EKS](/EKS-Workshop-6/images/0004/0002.png?featherlight=false&width=90pc)
 
 #### Cổng kết nối (Gateways)
 

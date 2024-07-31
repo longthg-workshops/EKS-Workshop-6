@@ -12,7 +12,7 @@ Trong phần này, chúng ta sẽ xem xét **Giao diện Mạng Container (CNI) 
 
 #### Cấu hình CNI
 
-![EKS](/images/0004/00010.png?featherlight=false&width=90pc)
+![EKS](/EKS-Workshop-6/images/0004/00010.png?featherlight=false&width=90pc)
 
 
 - Kiểm tra trạng thái của Dịch vụ Kubelet
@@ -45,7 +45,7 @@ ls /etc/cni/net.d
 
 #### Định dạng của Tập tin Cấu hình
 
-![EKS](/images/0004/00011.png?featherlight=false&width=90pc)
+![EKS](/EKS-Workshop-6/images/0004/00011.png?featherlight=false&width=90pc)
 
 
 #### Tài liệu Tham khảo

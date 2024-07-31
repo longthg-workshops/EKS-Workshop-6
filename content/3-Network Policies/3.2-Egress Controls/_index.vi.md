@@ -9,7 +9,7 @@ pre: "<b> 3.2 </b>"
 #### Cài đặt các Egress Control
 
 
-![EKS](/images/0004/00015.png?featherlight=false&width=60pc)
+![EKS](/EKS-Workshop-6/images/0004/00015.png?featherlight=false&width=60pc)
 
 
 Như đã hiển thị trong biểu đồ kiến trúc ở trên, thành phần 'ui' là ứng dụng phía trước. Vì vậy, chúng ta có thể bắt đầu triển khai các điều khiển mạng cho thành phần 'ui' bằng cách xác định một chính sách mạng sẽ chặn tất cả lưu lượng ra từ namespace 'ui'.

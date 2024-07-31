@@ -8,7 +8,7 @@ pre: "<b> 3.3 </b>"
 
 #### Cài đặt các Ingress Control
 
-![EKS](/images/0004/00015.png?featherlight=false&width=60pc)
+![EKS](/EKS-Workshop-6/images/0004/00015.png?featherlight=false&width=60pc)
 
 Như đã thể hiện trong sơ đồ kiến trúc, namespace 'catalog' chỉ nhận lưu lượng từ namespace 'ui' và không nhận lưu lượng từ bất kỳ namespace nào khác. Ngoài ra, thành phần cơ sở dữ liệu 'catalog' chỉ có thể nhận lưu lượng từ thành phần dịch vụ 'catalog'.
 

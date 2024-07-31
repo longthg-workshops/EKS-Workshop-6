@@ -95,17 +95,17 @@ PING github.com (140.82.121.3) 56(84) bytes of data.
 
 #### Domain Names
 
-![EKS](/images/0004/0003.png?featherlight=false&width=90pc)
+![EKS](/EKS-Workshop-6/images/0004/0003.png?featherlight=false&width=90pc)
 
 
 #### Search Domain
 
-![EKS](/images/0004/0004.png?featherlight=false&width=90pc)
+![EKS](/EKS-Workshop-6/images/0004/0004.png?featherlight=false&width=90pc)
 
 
 #### Record Types
 
-![EKS](/images/0004/0005.png?featherlight=false&width=90pc)
+![EKS](/EKS-Workshop-6/images/0004/0005.png?featherlight=false&width=90pc)
 
 
 #### Networking Tools
